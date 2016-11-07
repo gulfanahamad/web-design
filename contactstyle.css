@@ -1,0 +1,53 @@
+html {
+    background-color: white;
+	background-image: url(1.Images/beach_29-wallpaper-2560x1440.jpg);
+	color:black;
+	padding-top:20px;
+}
+
+
+body {
+    padding:20px;
+	
+	/*background-image:url(1.Images/dishes.jpg);*/
+    background-color: #ede6e6;
+    margin: 0 auto;
+    width: 960px;
+    font-family: arial, helvetica,sans-serif;
+	height:920px;
+	padding-bottom:20px;
+	margin-bottom:20px;
+	
+	
+	
+}
+div li{
+	list-style:none;
+	display:inline;
+	padding:20px;
+	font-size:16px;
+	
+}
+
+.mail{
+	width:200px;
+	
+	text-align:center;
+}
+div{
+	padding-top:20px;
+	color:black;
+	
+}
+
+p{
+	
+	color:black;
+	border:1px solid green;
+	background-color:white;
+	
+	text-align:center;
+	text-decoration:none;
+	width:300px;
+}
+
